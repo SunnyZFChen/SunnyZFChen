@@ -43,6 +43,17 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/SunnyZFChen/shared_bike">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnyZFChen&repo=shared_bike" />
+  </a>
+  <a href="https://github.com/SunnyZFChen/liveStream">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunnyZFChen&repo=liveStream" />
+  </a>
+</p>
+
+###
+
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
 <p align="center">
