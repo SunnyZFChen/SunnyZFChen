@@ -20,10 +20,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/SunnyZFChen/)  
+- 🔭 I’m currently studying in South China University of Technology  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning C/C++ backend and Java baclend,specila in the network programming and the embedded system
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
