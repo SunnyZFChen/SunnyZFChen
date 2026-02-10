@@ -114,6 +114,24 @@
    - 🔹 [Sunny(CZF)的知识库](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by ChenZhiFu in feishu
    - 🔹 [操作系统以及网络编程学习编码](https://github.com/CzfStudyCpp/OS_Study_Code):theC/C++ code to achive the OS and Network programming
    - 🔹 [数据结构与算法学习C++编码实现](https://github.com/CzfStudyCpp/DataStructureAndAlgorithms):the C/C++ coding the Data Structure And Algorithms eg:list changeList,Graph(Djistra Adjgency Matrix And list prim 
+<details>
+  <summary>📚 Learning Repositories</summary>
+  
+  - [📘 Data Structures & Algorithms](https://github.com/SunnyZFChen/DataStructureAndAlgorithms)
+  - [🖥️ Backend Development](https://github.com/SunnyZFChen/BackendDevelopment)
+  - [🔧 System Programming](https://github.com/SunnyZFChen/SystemProgramming)
+  - [🎮 Game Development](https://github.com/SunnyZFChen/GameDevelopment)
+  
+</details>
+
+<details>
+  <summary>📖 Books & Resources</summary>
+  
+  - [📚 Clean Code](https://example-link.com)
+  - [📘 The Pragmatic Programmer](https://example-link.com)
+  - [📙 Designing Data-Intensive Applications](https://example-link.com)
+  
+</details>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SunnyZFChen&&style=flat-square" align="center" />
