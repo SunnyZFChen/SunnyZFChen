@@ -10,12 +10,11 @@
     <img alt="github主页" width="30px" src="./assets/github.svg" style="transition: transform 0.35s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
   </a>
 </div>
-## 关于我
 
 <div align="center">
   <img src="./assets/avatar.jpg" width="100" alt="头像" />
 </div>
-
+<div align="left">
 👋 我是 **SunnyZFChen**，目前就读于华南理工大学（Scut），专注于后端开发，并且对 高性能系统、多线程开发和嵌入式系统有着浓厚的兴趣。
 
 🎓 **学习方向**：  
@@ -35,8 +34,6 @@
 - 邮箱2:2018249814@qq.com
 - 邮箱3:sunnysc2023@gmail.com
 
-<div align="center">
-  <img src="./assets/Bottom_down.svg" />
 </div>
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
