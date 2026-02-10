@@ -15,27 +15,11 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 
 ###
 
-<h2 align="center">Hi，我是白雾茫茫丶 👋</h2>
-
-<div align="center">
-  
-  <br>
-  
-    <br>
-
-  <br>
-  
-  <br>
-  
-  <br>
-</div>
 ###
 
 <h2 align="center">🛠 专业技能</h2>
@@ -49,10 +33,6 @@
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.SunnyZFChen.com/api/cards/profile-details?username=SunnyZFChen&theme=vue" alt="SunnyZFChen's profile-summary-cards"  />
-</p>
-
-<p align="center">
     <img src="https://raw.githubusercontent.com/SunnyZFChen/SunnyZFChen/output/github-contribution-grid-snake.svg" alt="SunnyZFChen's github activity graph" />
 </p>
 
@@ -62,16 +42,6 @@
 
 ###
 
-<h2 align="center">✨ Github Starts </h2>
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.SunnyZFChen.com/api?username=SunnyZFChen&show_icons=true&include_all_commits=true&theme=vue&hide_border=true) | ![Top Languages](https://github-readme-stats.SunnyZFChen.com/api/top-langs/?username=SunnyZFChen&theme=vue&hide_border=true) |
-|:---:|:---:|
-
-![](https://github-profile-trophy.SunnyZFChen.com/?username=SunnyZFChen&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
-
-</div>
 
 ###
 
