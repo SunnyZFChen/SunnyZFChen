@@ -1,3 +1,3 @@
 ## Hey 👋, I'm SunnyZFChen!  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyZFChen&random=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunnyZFChen&show_icons=true)
 
