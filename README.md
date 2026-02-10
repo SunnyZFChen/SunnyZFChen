@@ -1,5 +1,7 @@
 ##                       Hey 👋, I'm SunnyZFChen The name called ZhiFu Chen study at the Scut!
 
+###
+
 <div align="center">
   <img src="./assets/Bottom_up.svg"  />
 </div>
@@ -11,16 +13,19 @@
   </a>
 </div>
 
+###
+
 <div align="center">
   <img src="./assets/avatar.jpg" width="100" alt="头像" />
 </div>
 <div align="left">
-👋 我是 **SunnyZFChen**，目前就读于华南理工大学（Scut），专注于后端开发，并且对 高性能系统、多线程开发和嵌入式系统有着浓厚的兴趣。
+
+👋 我是**SunnyZFChen(With calling ZhiFuChen)**，目前就读于华南理工大学（Scut），专注于后端开发，并且对 高性能系统、多线程开发和嵌入式系统有着浓厚的兴趣。
 
 🎓 **学习方向**：  
-- 主攻编程语言：C/C++(重点)、Java、Python  
-- 学习方向：后端开发，网络编程，多线程编程，嵌入式开发，机器人编程
-- 期望未来继续学习方向：人工智能，LLM大模型，多模态大模型，RAG，SKILL,MCP,机器人概率学，深度学习，机器学习等 
+- **编程语言**：C/C++(重点)、Java、Python  
+- **学习方向**：后端开发，网络编程，多线程编程，嵌入式开发，机器人编程
+- **期望未来继续学习方向**：人工智能，LLM大模型，多模态大模型，RAG，SKILL,MCP,机器人概率学，深度学习，机器学习等 
 
 💡 **个人理念**：  
 我相信代码不仅是工具，更是表达思想的方式。通过不断学习和实践，我希望能够技术上获得成长，思想上获得提高，创新上有所探索，研究上有所成果。
@@ -35,6 +40,9 @@
 - 邮箱3:sunnysc2023@gmail.com
 
 </div>
+
+###
+
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
 <p align="center">
