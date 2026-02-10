@@ -91,12 +91,13 @@
 
 ###
 
-<h2 align="center">🚀 我的 Github 活动 </h2>
+<h2 align="center">🚀 我的 活动 </h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SunnyZFChen/SunnyZFChen/output/github-contribution-grid-snake.svg" alt="SunnyZFChen's github activity graph" />
 </p>
 
+#### 当前正在致力于：基于openGauss_embbeded数据库内核的系统开发，主要使用C/C++
 ###
 <!--START_SECTION:waka-->
 
