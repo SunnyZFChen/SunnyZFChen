@@ -33,14 +33,61 @@
 🌱 **About Me**
 我喜欢挑战复杂的技术问题，关注系统的性能、可扩展性和稳定性。通过学习并掌握 C/C++、多线程开发、网络编程 和 数据库开发,以及嵌入式系统，我不断提高自己在这些领域的实践能力。同时，我也注重团队合作和良好的沟通能力，力求在项目中发挥最大作用。
 
-📬 **联系方式**：  
-- GitHub: [SunnyZFChen](https://github.com/SunnyZFChen)  
+📬 **Personal E-mail**：   
 - 📧 School work Email: [sestriver@mail.scut.edu.cn](mailto:sestriver@mail.scut.edu.cn)
 - 📧 QQ Email: [2018249814@qq.com](mailto:2018249814@qq.com)
 - 📧 Personal Email by outlook: [czfforbest@outlook.com](mailto:czfforbest@outlook.com)
 - 📧 Personal Email by Google [sunnysc2023@gmail.com](mailto:sunnysc2023@gmail.com):
 
+## Other Connect with me 
+
+
+<div align="center">
+<a href="https://github.com/SunnyZFChen" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/KavinLuby" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@suunyzf-mg2lx" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 </div>
+  
+
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+</div>
+</td></tr></table>  
+
+<br/>  
+
 
 
 ###
@@ -68,6 +115,15 @@
    - 🔹 [Sunny(CZF)的知识库](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by ChenZhiFu in feishu
    - 🔹 [操作系统以及网络编程学习编码](https://github.com/CzfStudyCpp/OS_Study_Code):theC/C++ code to achive the OS and Network programming
    - 🔹 [数据结构与算法学习C++编码实现](https://github.com/CzfStudyCpp/DataStructureAndAlgorithms):the C/C++ coding the Data Structure And Algorithms eg:list changeList,Graph(Djistra Adjgency Matrix And list prim 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SunnyZFChen&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
 <div align="center">
   <img src="./assets/Bottom_down.svg"  />
 </div>
