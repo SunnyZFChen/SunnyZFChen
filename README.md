@@ -35,9 +35,10 @@
 
 📬 **联系方式**：  
 - GitHub: [SunnyZFChen](https://github.com/SunnyZFChen)  
-- 邮箱: sestriver@mail.scut.edu.cn        the edu mail
-- 邮箱2:2018249814@qq.com
-- 邮箱3:sunnysc2023@gmail.com
+- 📧 School work Email: [sestriver@mail.scut.edu.cn](mailto:sestriver@mail.scut.edu.cn)
+- 📧 QQ Email: [2018249814@qq.com](mailto:2018249814@qq.com)
+- 📧 Personal Email by outlook: [czfforbest@outlook.com](mailto:czfforbest@outlook.com)
+- 📧 Personal Email by Google [sunnysc2023@gmail.com](mailto:sunnysc2023@gmail.com):
 
 </div>
 
