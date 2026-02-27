@@ -1,5 +1,5 @@
 {
-  "name": "baiwumm",
+  "name": "SunnyZFChen",
   "version": "1.0.0",
   "description": "welcome to my profile!",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baiwumm/baiwumm.git"
+    "url": "git+https://github.com/SunnyZFChen/SunnyZFChen.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/baiwumm/baiwumm/issues"
+    "url": "https://github.com/SunnyZFChen/SunnyZFChen/issues"
   },
-  "homepage": "https://github.com/baiwumm/baiwumm#readme",
+  "homepage": "https://github.com/SunnyZFChen/SunnyZFChen#readme",
   "dependencies": {
     "@octokit/rest": "^22.0.0",
     "dotenv": "^17.2.3",
