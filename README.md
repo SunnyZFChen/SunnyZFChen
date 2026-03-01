@@ -168,22 +168,79 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ###
 
 ### My Projects
-  - 🔹 [TFS-Core-Storage-Engine](https://github.com/CzfStudyCpp/TFS-Core-Storage-Engine)
-  - 🔹 [案例管理系统与任务发布平台](https://github.com/CzfStudyCpp/CaseManagementSystem): 案例管理系统，用户注册受管理，企业用户可以发布案例并邀请开发者协同开发的系统
-  - 🔹 [图乐直播系统](https://github.com/CzfStudyCpp/tlliveAPP): java微服务架构实现类抖音的实时流媒体播放平台
-  - 🔹 [共享单车系统](https://github.com/CzfStudyCpp/shared_bike): 高并发共享单车系统--服务端
-  - 🔹 [基于QT的nurbs和hermit三次样条曲线绘制](https://github.com/CzfStudyCpp/NURBS-HermitCurve#): 
+  - 🔹 [TFS-Core-Storage-Engine](https://github.com/SunnyZFChen/TFS-Core-Storage-Engine)
+  - 🔹 [案例管理系统与任务发布平台](https://github.com/SunnyZFChen/CaseManagementSystem): 案例管理系统，用户注册受管理，企业用户可以发布案例并邀请开发者协同开发的系统
+  - 🔹 [图乐直播系统](https://github.com/SunnyZFChen/tlliveAPP): java微服务架构实现类抖音的实时流媒体播放平台
+  - 🔹 [共享单车系统](https://github.com/SunnyZFChen/shared_bike): 高并发共享单车系统--服务端
+  - 🔹 [基于QT的nurbs和hermit三次样条曲线绘制](https://github.com/SunnyZFChen/NURBS-HermitCurve#): 
+
 ### My Knowledge Base
+
    - 🔹 [Sunny(CZF)的知识库](https://ncntx1jig03i.feishu.cn/wiki/space/7476383707927117826?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home):Personal Knowledge Base by ChenZhiFu in feishu
-   - 🔹 [操作系统以及网络编程学习编码](https://github.com/CzfStudyCpp/OS_Study_Code):theC/C++ code to achive the OS and Network programming
-   - 🔹 [数据结构与算法学习C++编码实现](https://github.com/CzfStudyCpp/DataStructureAndAlgorithms):the C/C++ coding the Data Structure And Algorithms eg:list changeList,Graph(Djistra Adjgency Matrix And list prim 
+
+<details>
+  <summary>
+    <a href="https://ncntx1jig03i.feishu.cn/wiki/Nq95w0VeKidPZTkbF1wcvMS4nvd?from=from_copylink" target="_blank">
+      数据结构与算法
+    </a>
+  </summary>
+
+  <!-- 树作为数据结构与算法下的子标题 -->
+  <details>
+    <summary>
+      <a href="https://ncntx1jig03i.feishu.cn/wiki/Nq95w0VeKidPZTkbF1wcvMS4nvd?from=from_copylink" target="_blank">
+        树
+      </a>
+    </summary>
+
+  <ul>
+      <li>🔹 <a href="https://ncntx1jig03i.feishu.cn/wiki/KTDDwoAociItyYk3sWDcKNL2nxg?from=from_copylink">根据树的遍历序列构造二叉树</a></li>
+    </ul>
+
+  </details>
+
+</details>
+
+
+<details>
+  <summary>
+    <a href="https://ncntx1jig03i.feishu.cn/wiki/QgDywTiWsi5sjrkJBtgcxLtFnhh?from=from_copylink" target="_blank">
+       操作系统
+    </a>
+  </summary>
+  <ul>
+    <li>🔹 <a href="https://ncntx1jig03i.feishu.cn/wiki/QgDywTiWsi5sjrkJBtgcxLtFnhh?from=from_copylink">操作系统</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <a href="https://ncntx1jig03i.feishu.cn/wiki/Sc9zwApzPiuXWQkeXLjc9Sjwnu7?from=from_copylink" target="_blank">
+       计算机网络
+    </a>
+  </summary>
+  <ul>
+    <li>🔹 <a href="https://ncntx1jig03i.feishu.cn/wiki/Sc9zwApzPiuXWQkeXLjc9Sjwnu7?from=from_copylink">计算机网络</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <a href="https://ncntx1jig03i.feishu.cn/wiki/B9yewDJqbitkTpkLKUDcVQdLnOd?from=from_copylink" target="_blank">
+       数据库
+    </a>
+  </summary>
+  <ul>
+    <li>🔹 <a href="https://ncntx1jig03i.feishu.cn/wiki/B9yewDJqbitkTpkLKUDcVQdLnOd?from=from_copylink">数据库</a></li>
+  </ul>
+</details>
+
 <details>
   <summary>📚 Learning Repositories</summary>
   
-  - [📘 Data Structures & Algorithms](https://github.com/SunnyZFChen/DataStructureAndAlgorithms)
-  - [🖥️ Backend Development](https://github.com/SunnyZFChen/BackendDevelopment)
-  - [🔧 System Programming](https://github.com/SunnyZFChen/SystemProgramming)
-  - [🎮 Game Development](https://github.com/SunnyZFChen/GameDevelopment)
+  - [📘 Data Structures & Algorithms](https://github.com/SunnyZFChen/DataStructureAndAlgorithms)：the C/C++ coding the Data Structure And Algorithms eg:list changeList,Graph(Djistra Adjgency Matrix And list prim 
+  - 🔹 [操作系统以及网络编程学习编码](https://github.com/SunnyZFChen/OS_Study_Code):theC/C++ code to achive the OS and Network programming
+  - 🔹 [数据结构与算法学习C++编码实现](https://github.com/SunnyZFChen/DataStructureAndAlgorithms):the C/C++ coding the Data Structure And Algorithms eg:list changeList,Graph(Djistra Adjgency Matrix And list prim 
   
 </details>
 
